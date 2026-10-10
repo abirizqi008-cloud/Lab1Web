@@ -5,7 +5,7 @@
 ## Identitas
 - **Nama** : Muhammad Agusti Abi Rizqi
 - **NIM** : 312510042
-- **Kelas** : TI.25.A.3 (atau sesuaikan dengan format kelas Anda)
+- **Kelas** : I253A 
 - **Prodi / Semester** : Teknik Informatika / 3
 
 ## Tujuan
