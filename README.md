@@ -15,7 +15,7 @@
 
 ## Langkah-langkah Praktikum
 1. Membuat Repository
-<p>Membuat repository di GitHub dengan nama Lab1Web</p>
+    <p>Membuat repository di GitHub dengan nama Lab1Web</p>
 <img src="images/repository.jpg" width="200">
 
 2. Membuat Paragraf
