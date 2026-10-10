@@ -23,5 +23,6 @@
    - **Komentar HTML (<!-- ... -->)**: Teks yang berada di dalam tanda ini berfungsi sebagai catatan atau dokumentasi di dalam kode. Komentar tidak akan ditampilkan di dalam browser saat halaman web dibuka, melainkan hanya bisa dilihat oleh pembuat kode (developer).
   
   ## Hasil
+  
     <img src="images/paragraf.jpg" width="250">
 
