@@ -21,5 +21,6 @@
 2. Membuat Paragraf
  - **Tag < p >(Paragraf)**: Tag ini digunakan untuk mengelompokkan dan menampilkan blok teks baru dalam halaman web. Setiap elemen < p > secara otomatis akan membuat baris baru dengan jarak (spasi atas dan bawah) dari elemen di sekitarnya.
  - **Komentar HTML (<!-- ... -->)**: Teks yang berada di dalam tanda ini berfungsi sebagai catatan atau dokumentasi di dalam kode. Komentar tidak akan ditampilkan di dalam browser saat halaman web dibuka, melainkan hanya bisa dilihat oleh pembuat kode (developer).
- <img src="images/paragraf.jpg" width="250">
+  
+    <img src="images/paragraf.jpg" width="250">
 
