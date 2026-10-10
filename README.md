@@ -3,10 +3,10 @@
 ## Praktikum 1 HTML Dasar
 
 ## Identitas
-•	Nama : Muahmmad Agusti Abi Rizqi
-•	NIM : 312510042
-•	Kelas : I253A
-•	Prodi. / Smt. : Teknik Informatika / 2
+•	**Nama** : Muahmmad Agusti Abi Rizqi
+•	**NIM** : 312510042
+•	**Kelas** : I253A
+•	**Prodi. / Smt.** : Teknik Informatika / 2
 
 ## Tujuan
 1. Mahasiswa mampu memahami struktur dasar HTML.
